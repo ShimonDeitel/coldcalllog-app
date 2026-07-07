@@ -1,0 +1,42 @@
+{
+  "identifier": "Coldcalllog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "coldcalllog_group",
+      "localizations": [],
+      "name": "Coldcall Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "coldcalllog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Daily quota tracking and conversion-rate stats",
+              "displayName": "Coldcall Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.coldcalllog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Coldcall Pro Monthly",
+          "subscriptionGroupID": "coldcalllog_group",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
